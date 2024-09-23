@@ -3,7 +3,7 @@
 Find IT (Future Innovations and Discovery IT), a national-level competition in the field of Information Technology held by Gadjah Mada University
 
 ## Important‼️
-- **Ensure that you clone the repository inside the folder of the repository name. Example ```Find-IT/{git clone here}```**
+- **Clone this repository within a dedicated folder for competitive programming to facilitate organization. Example ```Gedhang-Goreng/{git clone here}```**
 - **Before you push your file, please make sure that it passed all the tests**
 [ here!](https://tlx.toki.id/problems/problemsets?archive=find-it)
 
