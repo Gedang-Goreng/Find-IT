@@ -22,6 +22,7 @@ Penyisihan-A-Kevin_Bramasta_Arvyto_Wardhana
 
 - Please don't commit directly to the `main` branch. Create your own branch.
 - Please submit all your jobsheets as a Pull Request with the appropriate title to avoid confusion.
+- Please submit your file outside of the question folder.
 - Please write the stage name, the question type, and your name as the Pull Request title. For example: `[Penyisihan-A]: Kevin Bramasta Arvyto Wardhana`
 
 Happy Coding😁!
