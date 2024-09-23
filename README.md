@@ -2,10 +2,12 @@
 
 Find IT (Future Innovations and Discovery IT), a national-level competition in the field of Information Technology held by Gadjah Mada University
 
-**Note: Before you push your file, please make sure that it passed all the tests**<br>
-[Check your file here!](https://tlx.toki.id/problems/problemsets?archive=find-it)
+## Important‼️
+- **Ensure that you clone the repository inside the folder of the repository name. Example ```Find-IT/{git clone here}```**
+- **Before you push your file, please make sure that it passed all the tests**
+[ here!](https://tlx.toki.id/problems/problemsets?archive=find-it)
 
-## File Naming Convention
+## File Naming Convention📄
 
 Please follow this naming convention below.
 The file name is divided into 3 different parts:
@@ -18,11 +20,11 @@ An example of the file is as follows:
 Penyisihan-A-Kevin_Bramasta_Arvyto_Wardhana
 ```
 
-## Do's and Don'ts
+## Do's and Don'ts‼️
 
 - Please don't commit directly to the `main` branch. Create your own branch.
-- Please submit all your jobsheets as a Pull Request with the appropriate title to avoid confusion.
+- Please submit your file as a Pull Request with the appropriate title to avoid confusion.
 - Please submit your file outside of the question folder.
 - Please write the stage name, the question type, and your name as the Pull Request title. For example: `[Penyisihan-A]: Kevin Bramasta Arvyto Wardhana`
 
-Happy Coding😁!
+## Happy Coding😁!
