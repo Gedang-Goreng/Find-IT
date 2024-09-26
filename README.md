@@ -4,8 +4,8 @@ Find IT (Future Innovations and Discovery IT), a national-level competition in t
 
 ## Important‼️
 - **Clone this repository within a dedicated folder for competitive programming to facilitate organization. Example ```Gedhang-Goreng/{git clone here}```**
-- **Before you push your file, please make sure that it passed all the tests**
-[ here!](https://tlx.toki.id/problems/problemsets?archive=find-it)
+- **Before you push your file, please make sure that it passed all the tests [here!](https://tlx.toki.id/problems/problemsets?archive=find-it)**
+
 
 ## File Naming Convention📄
 
